@@ -2,8 +2,8 @@
 
 A beginner-friendly machine learning project that predicts stock market trends using technical indicators and advanced ML algorithms.
 
-📄 **Project Report**: [View Report](https://drive.google.com/file/d/1LIio-MueqKPEt0TFII_5pnHjLJ-2gp9y/view?usp=sharing)  
-📊 **Live Dashboard**: [Launch Dashboard](https://ai-market-trend-analysis-v5.streamlit.app/)  
+📄 **Project Report**: [View Report]((https://docs.google.com/document/d/1PGL_SgBrambMxF8WWAfC2lrHpKPLmft_/edit?usp=sharing&ouid=111569827111076348848&rtpof=true&sd=true))  
+📊 **Live Dashboard**: [Launch Dashboard](https://pranithtumma05-market-trend-analysis-streamlit-appapp-ay3m3s.streamlit.app/)  
 🎥 **Video Demo & Presentation**: [Watch Demo](https://drive.google.com/file/d/1yK8rTRIiBpl8bEomu9dXDbt7dxYux-PA/view?usp=drive_link)
 
 ## 📋 Table of Contents
@@ -135,7 +135,7 @@ ai-market-trend-analysis/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/23f2000792/ai-market-trend-analysis
+git clone https://github.com/Pranithtumma05/market_trend_analysis
 cd ai-market-trend-analysis
 ```
 
@@ -277,6 +277,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 **Contact**: krishgupta200510@gmail.com
+- 📧 **Contact**: tummapranithreddy@gmail.com
 
 ---
